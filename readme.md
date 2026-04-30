@@ -148,6 +148,79 @@ A **complete roadmap of 150 essential coding interview problems** curated by Nee
 
 ---
 
+
+## 📈 Dynamic Programming (1D) (12)
+- [ ] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  
+- [ ] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)  
+- [ ] [198. House Robber](https://leetcode.com/problems/house-robber/)  
+- [ ] [213. House Robber II](https://leetcode.com/problems/house-robber-ii/)  
+- [ ] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  
+- [ ] [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)  
+- [ ] [91. Decode Ways](https://leetcode.com/problems/decode-ways/)  
+- [ ] [322. Coin Change](https://leetcode.com/problems/coin-change/)  
+- [ ] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)  
+- [ ] [139. Word Break](https://leetcode.com/problems/word-break/)  
+- [ ] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  
+- [ ] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)  
+
+---
+
+## 📊 Dynamic Programming (2D) (11)
+- [ ] [62. Unique Paths](https://leetcode.com/problems/unique-paths/)  
+- [ ] [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)  
+- [ ] [72. Edit Distance](https://leetcode.com/problems/edit-distance/)  
+- [ ] [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)  
+- [ ] [97. Interleaving String](https://leetcode.com/problems/interleaving-string/)  
+- [ ] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
+- [ ] [221. Maximal Square](https://leetcode.com/problems/maximal-square/)  
+- [ ] [494. Target Sum](https://leetcode.com/problems/target-sum/)  
+- [ ] [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/)  
+- [ ] [309. Best Time to Buy/Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)  
+- [ ] [188. Best Time to Buy/Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)  
+
+---
+
+## 📦 Greedy (7)
+- [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  
+- [ ] [55. Jump Game](https://leetcode.com/problems/jump-game/)  
+- [ ] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)  
+- [ ] [134. Gas Station](https://leetcode.com/problems/gas-station/)  
+- [ ] [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/)  
+- [ ] [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)  
+- [ ] [763. Partition Labels](https://leetcode.com/problems/partition-labels/)  
+
+---
+
+## 🔢 Intervals (6)
+- [ ] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)  
+- [ ] [57. Insert Interval](https://leetcode.com/problems/insert-interval/)  
+- [ ] [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)  
+- [ ] [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)  
+- [ ] [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)  
+- [ ] [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)  
+
+---
+
+## 🧮 Math & Geometry (5)
+- [ ] [48. Rotate Image](https://leetcode.com/problems/rotate-image/)  
+- [ ] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  
+- [ ] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  
+- [ ] [202. Happy Number](https://leetcode.com/problems/happy-number/)  
+- [ ] [66. Plus One](https://leetcode.com/problems/plus-one/)  
+
+---
+
+## 🔤 Bit Manipulation (7)
+- [ ] [136. Single Number](https://leetcode.com/problems/single-number/)  
+- [ ] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  
+- [ ] [338. Counting Bits](https://leetcode.com/problems/counting-bits/)  
+- [ ] [268. Missing Number](https://leetcode.com/problems/missing-number/)  
+- [ ] [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)  
+- [ ] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)  
+- [ ] [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+
+---
+
 ## 🚀 How to Use
 - Solve 2–5 problems daily  
 - Track progress using checkboxes  
