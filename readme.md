@@ -36,12 +36,14 @@ A **complete roadmap of 150 essential coding interview problems** curated by Nee
 
 ---
 
-## 📊 Sliding Window (5)
+## 📊 Sliding Window (6)
 - [ ] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
 - [ ] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
 - [ ] [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  
 - [ ] [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)  
-- [ ] [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  
+- [ ] [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)  
+
 
 ---
 
@@ -49,22 +51,35 @@ A **complete roadmap of 150 essential coding interview problems** curated by Nee
 - [ ] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  
 - [ ] [155. Min Stack](https://leetcode.com/problems/min-stack/)  
 - [ ] [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  
-- [ ] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  
 - [ ] [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)  
 - [ ] [853. Car Fleet](https://leetcode.com/problems/car-fleet/)  
 - [ ] [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)  
 
 ---
 
-## 🔗 Linked List (8)
+## 🔍 Binary Search (7)
+- [ ] [704. Binary Search](https://leetcode.com/problems/binary-search/)  
+- [ ] [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)  
+- [ ] [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)  
+- [ ] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  
+- [ ] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
+- [ ] [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)  
+- [ ] [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  
+
+---
+
+## 🔗 Linked List (11)
 - [ ] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  
-- [ ] [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  
+- [ ] [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [ ] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)  
 - [ ] [143. Reorder List](https://leetcode.com/problems/reorder-list/)  
 - [ ] [19. Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  
 - [ ] [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  
 - [ ] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  
-- [ ] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  
-- [ ] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  
+- [ ] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)  
+- [ ] [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+- [ ] [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+- [ ] [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 
 ---
 
@@ -98,27 +113,26 @@ A **complete roadmap of 150 essential coding interview problems** curated by Nee
 
 ---
 
-## 🔍 Binary Search (7)
-- [ ] [704. Binary Search](https://leetcode.com/problems/binary-search/)  
-- [ ] [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)  
-- [ ] [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)  
-- [ ] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)  
-- [ ] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
-- [ ] [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)  
-- [ ] [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  
 
----
 
-## 🌲 Backtracking (9)
+## 🌲 Backtracking (10)
 - [ ] [78. Subsets](https://leetcode.com/problems/subsets/)  
-- [ ] [39. Combination Sum](https://leetcode.com/problems/combination-sum/)  
+- [ ] [39. Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [ ] [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)  
 - [ ] [46. Permutations](https://leetcode.com/problems/permutations/)  
 - [ ] [90. Subsets II](https://leetcode.com/problems/subsets-ii/)  
-- [ ] [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)  
+- [ ] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)  
 - [ ] [79. Word Search](https://leetcode.com/problems/word-search/)  
 - [ ] [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)  
 - [ ] [17. Letter Combinations](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  
 - [ ] [51. N-Queens](https://leetcode.com/problems/n-queens/)  
+
+---
+
+## Tries (3)
+- [ ] [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)  
+- [ ] [211. Design Add and Search Words Data Structure](http://leetcode.com/problems/design-add-and-search-words-data-structure/description/)  
+- [ ] [212. Word Search II](https://leetcode.com/problems/word-search-ii/description/)  
 
 ---
 
@@ -134,15 +148,15 @@ A **complete roadmap of 150 essential coding interview problems** curated by Nee
 - [ ] [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)  
 - [ ] [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)  
 - [ ] [127. Word Ladder](https://leetcode.com/problems/word-ladder/)  
-- [ ] [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)  
 - [ ] [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)  
 
 ---
 
-## 🌐 Advanced Graphs (5)
+## 🌐 Advanced Graphs (6)
 - [ ] [332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)  
 - [ ] [1584. Min Cost to Connect Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)  
-- [ ] [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)  
+- [ ] [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
+- [ ] [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)  
 - [ ] [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/)  
 - [ ] [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)  
 
@@ -180,12 +194,13 @@ A **complete roadmap of 150 essential coding interview problems** curated by Nee
 
 ---
 
-## 📦 Greedy (7)
+## 📦 Greedy (8)
 - [ ] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  
 - [ ] [55. Jump Game](https://leetcode.com/problems/jump-game/)  
 - [ ] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/)  
 - [ ] [134. Gas Station](https://leetcode.com/problems/gas-station/)  
-- [ ] [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/)  
+- [ ] [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
+- [ ] [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/)   
 - [ ] [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)  
 - [ ] [763. Partition Labels](https://leetcode.com/problems/partition-labels/)  
 
@@ -201,12 +216,15 @@ A **complete roadmap of 150 essential coding interview problems** curated by Nee
 
 ---
 
-## 🧮 Math & Geometry (5)
+## 🧮 Math & Geometry (8)
 - [ ] [48. Rotate Image](https://leetcode.com/problems/rotate-image/)  
 - [ ] [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  
 - [ ] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  
 - [ ] [202. Happy Number](https://leetcode.com/problems/happy-number/)  
-- [ ] [66. Plus One](https://leetcode.com/problems/plus-one/)  
+- [ ] [66. Plus One](https://leetcode.com/problems/plus-one/)
+- [ ] [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/)
+- [ ] [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
+- [ ] [2013. Detect Squares](https://leetcode.com/problems/detect-squares/description/)  
 
 ---
 
